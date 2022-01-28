@@ -1,6 +1,6 @@
 # Unity_RPG
 
-A 2D turn based RPG I'm making on my free time.
+A Unity 2D turn based RPG I'm making on my free time.
 
 The goal of the game is to unlock new mutants, and make them stronger.
 
